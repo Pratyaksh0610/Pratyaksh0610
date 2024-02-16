@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh</h1>
 <h3 align="center">A passionate Web developer</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/d1/b7/e1d1b7f73d4f26fed4445abea76b09da.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaksh0610&label=Profile%20Views&color=2e8fcc&style=flat" alt="pratyaksh0610" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratyaksh106" target="blank"><img src="https://img.shields.io/twitter/follow/pratyaksh106?logo=twitter&style=for-the-badge" alt="pratyaksh106" /></a> </p>
