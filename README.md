@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TypeScript & DevOps**
 
-- 💬 Got an interesting idea? **Let's talk over a cup of coffee**
+- 💬 Got an interesting idea? **Let's discuss it over a cup of coffee**
 
 - 📫 How to reach me **pratyaksh0610@gmail.com**
 
