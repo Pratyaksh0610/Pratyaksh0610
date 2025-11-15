@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **WebD Projects**
 
-- 🌱 I’m currently learning **TypeScript & DevOps**
+- 🌱 I’m currently learning **TypeScript & NextJs**
 
 - 💬 Got an interesting idea? **Let's discuss it over a cup of coffee**
 
